@@ -1,4 +1,4 @@
-global.hl = '.'   // prefix hl bot
+global.hl = '.'   // prefix Bayu Botz
 
 global.owner = ['6289525518325','6289525518325']
 global.mods = ['6289525518325']
